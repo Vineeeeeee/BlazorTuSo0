@@ -1,0 +1,41 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Vinee\\csrazor\\BlazorTuSo0\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\BlazorTuSo0.bundle.scp.css",
+      "PackagePath": "staticwebassets\\BlazorTuSo0.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Vinee\\csrazor\\BlazorTuSo0\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Vinee\\csrazor\\BlazorTuSo0\\wwwroot\\bootstrap\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Vinee\\csrazor\\BlazorTuSo0\\wwwroot\\bootstrap\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\bootstrap\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Vinee\\csrazor\\BlazorTuSo0\\wwwroot\\favicon.png",
+      "PackagePath": "staticwebassets\\favicon.png"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.BlazorTuSo0.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.BlazorTuSo0.props",
+      "PackagePath": "build\\BlazorTuSo0.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.BlazorTuSo0.props",
+      "PackagePath": "buildMultiTargeting\\BlazorTuSo0.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.BlazorTuSo0.props",
+      "PackagePath": "buildTransitive\\BlazorTuSo0.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
